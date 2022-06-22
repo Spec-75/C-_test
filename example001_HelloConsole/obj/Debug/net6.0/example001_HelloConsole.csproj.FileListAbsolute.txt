@@ -1,0 +1,15 @@
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\bin\Debug\net6.0\example001_HelloConsole.exe
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\bin\Debug\net6.0\example001_HelloConsole.deps.json
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\bin\Debug\net6.0\example001_HelloConsole.runtimeconfig.json
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\bin\Debug\net6.0\example001_HelloConsole.dll
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\bin\Debug\net6.0\example001_HelloConsole.pdb
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.csproj.AssemblyReference.cache
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.AssemblyInfoInputs.cache
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.AssemblyInfo.cs
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.dll
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\refint\example001_HelloConsole.dll
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.pdb
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\example001_HelloConsole.genruntimeconfig.cache
+D:\YandexDisk\!обучение geekbrains\6 Знакомство с C#\exampls\example001_HelloConsole\obj\Debug\net6.0\ref\example001_HelloConsole.dll
